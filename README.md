@@ -3,6 +3,8 @@ RFS2020年一篇论文的复现，观察公募基金是否参与管理造成的�
 
 主要工作为复现"Do Index Funds Monitor.pdf"原文中的所有实证过程。
 
+Data文件较大，因此未上传。有需要请私聊我的微信。
+
 ![image-20220226154334656](README.assets/image-20220226154334656.png)
 
 复现的代码详见"article reprocuce code.ipynb"和打印版本"article reproduce coding report.pdf"
